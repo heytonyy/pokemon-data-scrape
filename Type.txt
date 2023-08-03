@@ -1,0 +1,1195 @@
+Type
+Grass Poison
+Grass Poison
+Grass Poison
+Grass Poison
+Fire
+Fire
+Fire Flying
+Fire Dragon
+Fire Flying
+Water
+Water
+Water
+Water
+Bug
+Bug
+Bug Flying
+Bug Poison
+Bug Poison
+Bug Poison
+Bug Poison
+Normal Flying
+Normal Flying
+Normal Flying
+Normal Flying
+Normal
+Dark Normal
+Normal
+Dark Normal
+Normal Flying
+Normal Flying
+Poison
+Poison
+Electric
+Electric
+Electric
+Electric Psychic
+Ground
+Ice Steel
+Ground
+Ice Steel
+Poison
+Poison
+Poison Ground
+Poison
+Poison
+Poison Ground
+Fairy
+Fairy
+Fire
+Ice
+Fire
+Ice Fairy
+Normal Fairy
+Normal Fairy
+Poison Flying
+Poison Flying
+Grass Poison
+Grass Poison
+Grass Poison
+Bug Grass
+Bug Grass
+Bug Poison
+Bug Poison
+Ground
+Ground Steel
+Ground
+Ground Steel
+Normal
+Dark
+Steel
+Normal
+Dark
+Water
+Water
+Fighting
+Fighting
+Fire
+Fire Rock
+Fire
+Fire Rock
+Water
+Water
+Water Fighting
+Psychic
+Psychic
+Psychic
+Psychic
+Fighting
+Fighting
+Fighting
+Grass Poison
+Grass Poison
+Grass Poison
+Water Poison
+Water Poison
+Rock Ground
+Rock Electric
+Rock Ground
+Rock Electric
+Rock Ground
+Rock Electric
+Fire
+Psychic
+Fire
+Psychic Fairy
+Water Psychic
+Psychic
+Water Psychic
+Water Psychic
+Poison Psychic
+Electric Steel
+Electric Steel
+Normal Flying
+Fighting
+Normal Flying
+Normal Flying
+Water
+Water Ice
+Poison
+Poison Dark
+Poison
+Poison Dark
+Water
+Water Ice
+Ghost Poison
+Ghost Poison
+Ghost Poison
+Ghost Poison
+Rock Ground
+Psychic
+Psychic
+Water
+Water
+Electric
+Electric Grass
+Electric
+Electric Grass
+Grass Psychic
+Grass Psychic
+Grass Dragon
+Ground
+Ground
+Fire Ghost
+Fighting
+Fighting
+Normal
+Poison
+Poison
+Poison Fairy
+Ground Rock
+Ground Rock
+Normal
+Grass
+Normal
+Normal
+Water
+Water
+Water
+Water
+Water
+Water Psychic
+Psychic Fairy
+Ice Psychic
+Bug Flying
+Ice Psychic
+Electric
+Fire
+Bug
+Bug Flying
+Normal
+Fighting
+Fighting Fire
+Fighting Water
+Water
+Water Flying
+Water Dark
+Water Ice
+Normal
+Normal
+Normal
+Water
+Electric
+Fire
+Normal
+Rock Water
+Rock Water
+Rock Water
+Rock Water
+Rock Flying
+Rock Flying
+Normal
+Ice Flying
+Psychic Flying
+Electric Flying
+Fighting Flying
+Fire Flying
+Dark Flying
+Dragon
+Dragon
+Dragon Flying
+Psychic
+Psychic Fighting
+Psychic
+Psychic
+Grass
+Grass
+Grass
+Fire
+Fire
+Fire
+Fire Ghost
+Water
+Water
+Water
+Normal
+Normal
+Normal Flying
+Normal Flying
+Bug Flying
+Bug Flying
+Bug Poison
+Bug Poison
+Poison Flying
+Water Electric
+Water Electric
+Electric
+Fairy
+Normal Fairy
+Fairy
+Fairy Flying
+Psychic Flying
+Psychic Flying
+Electric
+Electric
+Electric
+Electric Dragon
+Grass
+Water Fairy
+Water Fairy
+Rock
+Water
+Grass Flying
+Grass Flying
+Grass Flying
+Normal
+Grass
+Grass
+Bug Flying
+Water Ground
+Poison Ground
+Water Ground
+Psychic
+Dark
+Dark Flying
+Water Psychic
+Poison Psychic
+Ghost
+Psychic
+Psychic
+Normal Psychic
+Bug
+Bug Steel
+Normal
+Ground Flying
+Steel Ground
+Steel Ground
+Fairy
+Fairy
+Water Poison
+Dark Poison
+Bug Steel
+Bug Steel
+Bug Rock
+Bug Fighting
+Bug Fighting
+Dark Ice
+Fighting Poison
+Normal
+Normal
+Fire
+Fire Rock
+Ice Ground
+Ice Ground
+Water Rock
+Ghost
+Water
+Water
+Ice Flying
+Water Flying
+Steel Flying
+Dark Fire
+Dark Fire
+Dark Fire
+Water Dragon
+Ground
+Ground
+Normal
+Normal
+Normal
+Fighting
+Fighting
+Ice Psychic
+Electric
+Fire
+Normal
+Normal
+Electric
+Fire
+Water
+Rock Ground
+Rock Ground
+Rock Dark
+Rock Dark
+Psychic Flying
+Fire Flying
+Psychic Grass
+Grass
+Grass
+Grass
+Grass Dragon
+Fire
+Fire Fighting
+Fire Fighting
+Fire Fighting
+Water
+Water Ground
+Water Ground
+Water Ground
+Dark
+Dark
+Normal
+Dark Normal
+Normal
+Dark Normal
+Bug
+Bug
+Bug Flying
+Bug
+Bug Poison
+Water Grass
+Water Grass
+Water Grass
+Grass
+Grass Dark
+Grass Dark
+Normal Flying
+Normal Flying
+Water Flying
+Water Flying
+Psychic Fairy
+Psychic Fairy
+Psychic Fairy
+Psychic Fairy
+Bug Water
+Bug Flying
+Grass
+Grass Fighting
+Normal
+Normal
+Normal
+Bug Ground
+Bug Flying
+Bug Ghost
+Normal
+Normal
+Normal
+Fighting
+Fighting
+Normal Fairy
+Rock
+Normal
+Normal
+Dark Ghost
+Dark Ghost
+Steel Fairy
+Steel Fairy
+Steel Rock
+Steel Rock
+Steel Rock
+Steel
+Fighting Psychic
+Fighting Psychic
+Fighting Psychic
+Electric
+Electric
+Electric
+Electric
+Electric
+Bug
+Bug
+Grass Poison
+Poison
+Poison
+Water Dark
+Water Dark
+Water Dark
+Water
+Water
+Fire Ground
+Fire Ground
+Fire Ground
+Fire
+Psychic
+Psychic
+Normal
+Ground
+Ground Dragon
+Ground Dragon
+Grass
+Grass Dark
+Normal Flying
+Dragon Flying
+Dragon Fairy
+Normal
+Poison
+Rock Psychic
+Rock Psychic
+Water Ground
+Water Ground
+Water
+Water Dark
+Ground Psychic
+Ground Psychic
+Rock Grass
+Rock Grass
+Rock Bug
+Rock Bug
+Water
+Water
+Normal
+Fire
+Water
+Ice
+Normal
+Ghost
+Ghost
+Ghost
+Ghost
+Ghost
+Grass Flying
+Psychic
+Dark
+Dark
+Psychic
+Ice
+Ice
+Ice
+Ice Water
+Ice Water
+Ice Water
+Water
+Water
+Water
+Water Rock
+Water
+Dragon
+Dragon
+Dragon Flying
+Dragon Flying
+Steel Psychic
+Steel Psychic
+Steel Psychic
+Steel Psychic
+Rock
+Ice
+Steel
+Dragon Psychic
+Dragon Psychic
+Dragon Psychic
+Dragon Psychic
+Water
+Water
+Ground
+Ground Fire
+Dragon Flying
+Dragon Flying
+Steel Psychic
+Psychic
+Psychic
+Psychic
+Psychic
+Grass
+Grass
+Grass Ground
+Fire
+Fire Fighting
+Fire Fighting
+Water
+Water
+Water Steel
+Normal Flying
+Normal Flying
+Normal Flying
+Normal
+Normal Water
+Bug
+Bug
+Electric
+Electric
+Electric
+Grass Poison
+Grass Poison
+Rock
+Rock
+Rock Steel
+Rock Steel
+Bug
+Bug
+Bug
+Bug Grass
+Bug Ground
+Bug Steel
+Bug Flying
+Bug Flying
+Bug Flying
+Electric
+Water
+Water
+Grass
+Grass
+Water
+Water Ground
+Normal
+Ghost Flying
+Ghost Flying
+Normal
+Normal
+Normal Fighting
+Ghost
+Dark Flying
+Normal
+Normal
+Psychic
+Poison Dark
+Poison Dark
+Steel Psychic
+Steel Psychic
+Rock
+Psychic Fairy
+Normal
+Normal Flying
+Ghost Dark
+Dragon Ground
+Dragon Ground
+Dragon Ground
+Dragon Ground
+Normal
+Fighting
+Fighting Steel
+Fighting Steel
+Ground
+Ground
+Poison Bug
+Poison Dark
+Poison Fighting
+Poison Fighting
+Grass
+Water
+Water
+Water Flying
+Grass Ice
+Grass Ice
+Grass Ice
+Dark Ice
+Electric Steel
+Normal
+Ground Rock
+Grass
+Electric
+Fire
+Fairy Flying
+Bug Flying
+Grass
+Ice
+Ground Flying
+Ice Ground
+Normal
+Psychic Fighting
+Psychic Fighting
+Rock Steel
+Ghost
+Ice Ghost
+Electric Ghost
+Electric Fire
+Electric Water
+Electric Ice
+Electric Flying
+Electric Grass
+Psychic
+Psychic
+Psychic
+Steel Dragon
+Steel Dragon
+Water Dragon
+Water Dragon
+Fire Steel
+Normal
+Ghost Dragon
+Ghost Dragon
+Psychic
+Water
+Water
+Dark
+Grass
+Grass Flying
+Normal
+Psychic Fire
+Grass
+Grass
+Grass
+Fire
+Fire Fighting
+Fire Fighting
+Water
+Water
+Water
+Water Dark
+Normal
+Normal
+Normal
+Normal
+Normal
+Dark
+Dark
+Grass
+Grass
+Fire
+Fire
+Water
+Water
+Psychic
+Psychic
+Normal Flying
+Normal Flying
+Normal Flying
+Electric
+Electric
+Rock
+Rock
+Rock
+Psychic Flying
+Psychic Flying
+Ground
+Ground Steel
+Normal
+Normal Fairy
+Fighting
+Fighting
+Fighting
+Water
+Water Ground
+Water Ground
+Fighting
+Fighting
+Bug Grass
+Bug Grass
+Bug Grass
+Bug Poison
+Bug Poison
+Bug Poison
+Grass Fairy
+Grass Fairy
+Grass
+Grass
+Grass Fighting
+Water
+Water
+Water
+Ground Dark
+Ground Dark
+Ground Dark
+Fire
+Ice
+Fire
+Fire Psychic
+Ice
+Ice Fire
+Grass
+Bug Rock
+Bug Rock
+Dark Fighting
+Dark Fighting
+Psychic Flying
+Ghost
+Ground Ghost
+Ghost
+Water Rock
+Water Rock
+Rock Flying
+Rock Flying
+Poison
+Poison
+Dark
+Normal Ghost
+Dark
+Normal Ghost
+Normal
+Normal
+Psychic
+Psychic
+Psychic
+Psychic
+Psychic
+Psychic
+Water Flying
+Water Flying
+Ice
+Ice
+Ice
+Normal Grass
+Normal Grass
+Electric Flying
+Bug
+Bug Steel
+Grass Poison
+Grass Poison
+Water Ghost
+Water Ghost
+Water
+Bug Electric
+Bug Electric
+Grass Steel
+Grass Steel
+Steel
+Steel
+Steel
+Electric
+Electric
+Electric
+Psychic
+Psychic
+Ghost Fire
+Ghost Fire
+Ghost Fire
+Dragon
+Dragon
+Dragon
+Ice
+Ice
+Ice
+Bug
+Bug
+Ground Electric
+Ground Steel
+Fighting
+Fighting
+Dragon
+Ground Ghost
+Ground Ghost
+Dark Steel
+Dark Steel
+Normal
+Normal Flying
+Normal Flying
+Psychic Flying
+Dark Flying
+Dark Flying
+Fire
+Bug Steel
+Dark Dragon
+Dark Dragon
+Dark Dragon
+Bug Fire
+Bug Fire
+Steel Fighting
+Rock Fighting
+Grass Fighting
+Flying
+Flying
+Electric Flying
+Electric Flying
+Dragon Fire
+Dragon Electric
+Ground Flying
+Ground Flying
+Dragon Ice
+Dragon Ice
+Dragon Ice
+Water Fighting
+Water Fighting
+Normal Psychic
+Normal Fighting
+Bug Steel
+Grass
+Grass
+Grass Fighting
+Fire
+Fire
+Fire Psychic
+Water
+Water
+Water Dark
+Water Dark
+Normal
+Normal Ground
+Normal Flying
+Fire Flying
+Fire Flying
+Bug
+Bug
+Bug Flying
+Fire Normal
+Fire Normal
+Fairy
+Fairy
+Fairy
+Grass
+Grass
+Fighting
+Fighting Dark
+Normal
+Psychic
+Psychic
+Psychic
+Steel Ghost
+Steel Ghost
+Steel Ghost
+Steel Ghost
+Fairy
+Fairy
+Fairy
+Fairy
+Dark Psychic
+Dark Psychic
+Rock Water
+Rock Water
+Poison Water
+Poison Dragon
+Water
+Water
+Electric Normal
+Electric Normal
+Rock Dragon
+Rock Dragon
+Rock Ice
+Rock Ice
+Fairy
+Fighting Flying
+Electric Fairy
+Rock Fairy
+Dragon
+Dragon
+Steel Dragon
+Dragon
+Steel Dragon
+Steel Fairy
+Ghost Grass
+Ghost Grass
+Ghost Grass
+Ghost Grass
+Ghost Grass
+Ghost Grass
+Ghost Grass
+Ghost Grass
+Ghost Grass
+Ghost Grass
+Ice
+Ice
+Ice Rock
+Flying Dragon
+Flying Dragon
+Fairy
+Dark Flying
+Dragon Ground
+Dragon Ground
+Dragon Ground
+Rock Fairy
+Rock Fairy
+Psychic Ghost
+Psychic Dark
+Fire Water
+Grass Flying
+Grass Flying
+Grass Ghost
+Grass Fighting
+Fire
+Fire
+Fire Dark
+Water
+Water
+Water Fairy
+Normal Flying
+Normal Flying
+Normal Flying
+Normal
+Normal
+Bug
+Bug Electric
+Bug Electric
+Fighting
+Fighting Ice
+Fire Flying
+Electric Flying
+Psychic Flying
+Ghost Flying
+Bug Fairy
+Bug Fairy
+Rock
+Rock
+Rock
+Rock
+Rock
+Water
+Water
+Poison Water
+Poison Water
+Ground
+Ground
+Water Bug
+Water Bug
+Grass
+Grass
+Grass Fairy
+Grass Fairy
+Poison Fire
+Poison Fire
+Normal Fighting
+Normal Fighting
+Grass
+Grass
+Grass
+Fairy
+Normal Psychic
+Fighting
+Bug Water
+Bug Water
+Ghost Ground
+Ghost Ground
+Water
+Normal
+Normal
+Rock Flying
+Rock Flying
+Normal
+Fire Dragon
+Electric Steel
+Ghost Fairy
+Water Psychic
+Normal Dragon
+Ghost Grass
+Dragon
+Dragon Fighting
+Dragon Fighting
+Electric Fairy
+Psychic Fairy
+Grass Fairy
+Water Fairy
+Psychic
+Psychic
+Psychic Steel
+Psychic Ghost
+Rock Poison
+Bug Fighting
+Bug Fighting
+Electric
+Steel Flying
+Grass Steel
+Dark Dragon
+Psychic
+Psychic Steel
+Psychic Ghost
+Psychic Dragon
+Steel Fairy
+Fighting Ghost
+Poison
+Poison Dragon
+Rock Steel
+Fire Ghost
+Electric
+Steel
+Steel
+Grass
+Grass
+Grass
+Fire
+Fire
+Fire
+Water
+Water
+Water
+Normal
+Normal
+Flying
+Flying
+Flying Steel
+Bug
+Bug Psychic
+Bug Psychic
+Dark
+Dark
+Grass
+Grass
+Normal
+Normal
+Water
+Water Rock
+Electric
+Electric
+Rock
+Rock Fire
+Rock Fire
+Grass Dragon
+Grass Dragon
+Grass Dragon
+Ground
+Ground
+Flying Water
+Water
+Water
+Electric Poison
+Electric Poison
+Electric Poison
+Fire Bug
+Fire Bug
+Fighting
+Fighting
+Ghost
+Ghost
+Psychic
+Psychic
+Psychic Fairy
+Dark Fairy
+Dark Fairy
+Dark Fairy
+Dark Normal
+Steel
+Ghost
+Fighting
+Ice Psychic
+Ground Ghost
+Fairy
+Fairy
+Fighting
+Electric
+Ice Bug
+Ice Bug
+Rock
+Ice
+Ice
+Psychic Normal
+Psychic Normal
+Electric Dark
+Electric Dark
+Steel
+Steel
+Electric Dragon
+Electric Ice
+Water Dragon
+Water Ice
+Steel Dragon
+Dragon Ghost
+Dragon Ghost
+Dragon Ghost
+Fairy
+Fairy Steel
+Fighting
+Fighting Steel
+Poison Dragon
+Poison Dragon
+Fighting
+Fighting Dark
+Fighting Water
+Dark Grass
+Electric
+Dragon
+Ice
+Ghost
+Psychic Grass
+Psychic Ice
+Psychic Ghost
+Normal Psychic
+Bug Rock
+Ground Normal
+Water Ghost
+Water Ghost
+Fighting Poison
+Dark Poison
+Fairy Flying
+Fairy Flying
+Grass
+Grass
+Grass Dark
+Fire
+Fire
+Fire Ghost
+Water
+Water
+Water Fighting
+Normal
+Normal
+Normal
+Bug
+Bug
+Bug
+Bug Dark
+Electric
+Electric Fighting
+Electric Fighting
+Normal
+Normal
+Normal
+Fairy
+Fairy
+Grass Normal
+Grass Normal
+Grass Normal
+Normal Flying
+Normal Flying
+Normal Flying
+Normal Flying
+Rock
+Rock
+Rock
+Fire
+Fire Psychic
+Fire Ghost
+Electric
+Electric
+Electric Flying
+Electric Flying
+Dark
+Dark
+Poison Normal
+Poison Normal
+Grass Ghost
+Grass Ghost
+Ground Grass
+Ground Grass
+Rock
+Grass
+Grass Fire
+Bug
+Bug Psychic
+Psychic
+Psychic
+Fairy Steel
+Fairy Steel
+Fairy Steel
+Water
+Water
+Flying Dark
+Water
+Water
+Water
+Steel Poison
+Steel Poison
+Dragon Normal
+Steel
+Rock Poison
+Rock Poison
+Ghost
+Ghost
+Flying Fighting
+Ice
+Ice
+Water Psychic
+Water
+Dragon Water
+Dragon Water
+Dragon Water
+Fighting Ghost
+Poison Ground
+Normal Psychic
+Normal
+Normal
+Dark Steel
+Ground Fighting
+Fairy Psychic
+Grass Dark
+Ghost Fairy
+Bug Fighting
+Electric Ground
+Ground Steel
+Ice Water
+Fighting Electric
+Dark Flying
+Fire Poison
+Rock Electric
+Dragon Ice
+Dragon Ice
+Dragon Ice
+Ghost
+Ghost
+Steel Ghost
+Dark Grass
+Dark Ice
+Dark Ground
+Dark Fire
+Dragon Dark
+Fairy Fighting
+Fighting Dragon
+Electric Dragon
+Water Dragon
+Grass Psychic
